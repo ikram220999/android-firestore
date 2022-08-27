@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605381390733",
+    "project_id": "firestore-uitm-dc9aa",
+    "storage_bucket": "firestore-uitm-dc9aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605381390733:android:f98ae0dfc250e0f609cdc4",
+        "android_client_info": {
+          "package_name": "zombi.kampung.pisang22.firestoreuitm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605381390733-kcau2rpv0aru7g5b8g3il0os0fnupl1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOfA6zZ10YVHUQsaWq8p0TJWtnlxH3kOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605381390733-kcau2rpv0aru7g5b8g3il0os0fnupl1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
